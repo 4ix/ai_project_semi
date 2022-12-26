@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=euc-kr">
 
 <b>월평균 매매기준율</b><br>
-기간 : <strong><span style="color:#ffa800">2020</span>년 <span style="color:#ffa800">12</span>월 ~ <strong><span style="color:#ffa800">2022</span>년 <span style="color:#ffa800">12</span>월<br>
+기간 : <strong><span style="color:#ffa800">2020</span>년 <span style="color:#ffa800">10</span>월 ~ <strong><span style="color:#ffa800">2022</span>년 <span style="color:#ffa800">12</span>월<br>
 
 <table width="685" border="1">
 	<colgroup>
@@ -22,6 +22,22 @@
 		<td class="th">통화명</td>
 		<td class="th2">월평균 매매기준율</td>
 	</tr>
+	
+	
+					<tr align="right">
+					
+						<td class="td" align="center" style='mso-number-format:"\@";'>2020.10　</td>
+						<td class="td" align="center" style="padding-left:20px">미국 달러 (USD)</td>
+						<td class="td2" style="padding-right:90px"><span class="tt_5">1,144.68</span></td>
+					</tr>
+	
+	
+					<tr align="right">
+					
+						<td class="td" align="center" style='mso-number-format:"\@";'>2020.11　</td>
+						<td class="td" align="center" style="padding-left:20px">미국 달러 (USD)</td>
+						<td class="td2" style="padding-right:90px"><span class="tt_5">1,116.76</span></td>
+					</tr>
 	
 	
 					<tr align="right">

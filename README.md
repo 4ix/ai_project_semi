@@ -6,14 +6,16 @@
 2. 3개년 치 (2020-10-26 ~ 2022-12-26) 의 자료를 investing.com 의 과거 데이터 다운로드를 통해 자료 수집.
 3. 데이터 전처리 후 matplotlib를 통해 각종 도표로 데이터 확인 진행.
 
-## 예상 스케쥴
+## 스케쥴 진행
 ### 2022-12-26(월)
-1. 데이터 다운로드 후 pandas 통해 각각 데이터 프레임 생성 (bit_origin, eth_origin, ftt_origin)
+1. 데이터 다운로드 후 pandas 통해 각각 데이터 프레임 생성 (bit_origin, eth_origin, wemix_origin)
 2. bit_origin df 데이터 전처리(bit_copy) -> NaN값 처리, 데이터형 변환, 단위 변환 등
-3. bit_copy 그래프 생성 (matplotlib) 테스트
+3. 환율(월평균매매기준율) 적용하여 KRW 컬럼 추가 (서울외국환중개 자료 이용)
+4. bit_krw 데이터프레임 작업 완료
 
 ### 2022-12-27(화)
 1. eth_origin 및 wemix_origin 데이터 전처리
+2. bit_copy 그래프 생성 (matplotlib) 테스트
 
 ### 2022-12-28(수)
 1. matplotlib 통해 전체 그래프 생성
